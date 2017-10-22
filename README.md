@@ -3,7 +3,7 @@ A simple weather app which displays forecasted weather for U.S. cities built usi
 
 API for weather data is fetched from [Open Weather Map](https://openweathermap.org/api) and requires an API key.
 
-###Getting Started
+### Getting Started
 1. Clone down this repo.
 2. Touch a `.env.local` file in the root directory
 3. Obtain a free API key from [Open Weather Map](http://openweathermap.org/appid) & add it as API_KEY in the `.env.local` file
