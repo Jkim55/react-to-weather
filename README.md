@@ -1,7 +1,7 @@
 # React/Redux Weather App
 A simple weather app which displays forecasted weather for U.S. cities built using React w/ Redux.
 
-API for weather data is fetched from [Open Weather Map](https://openweathermap.org/api)
+API for weather data is fetched from [Open Weather Map](https://openweathermap.org/api) and requires an API key.
 
 ###Getting Started
 1. Clone down this repo.
