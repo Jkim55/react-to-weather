@@ -1,4 +1,12 @@
+var Dotenv = require('dotenv-webpack')
+
 module.exports = {
+  plugins: [
+    new Dotenv({
+      path: '.env.local',
+      systemvars: true
+    }),
+  ],
   entry: [
     './src/index.js'
   ],
